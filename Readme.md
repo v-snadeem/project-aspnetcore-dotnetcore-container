@@ -1,6 +1,6 @@
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
-| ASP.NET Core | .NET Core 1.1 | Azure Web App, Virtual Machines |
+| ASP.NET Core | .NET Core 1.1 | Azure Web App, Virtual Machines | anurag|
 
 
 # Sample ASP.NET Core MVC application targetting .NET Core 1.1
